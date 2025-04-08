@@ -101,19 +101,3 @@ This project was submitted as a **conference paper** in ACM-style format for the
 - React
 - Caffe Model: `res10_300x300_ssd_iter_140000_fp16.caffemodel`
 
-### 🛠 Setup Instructions
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/gender-bias-search.git
-cd gender-bias-search
-
-# Backend Setup
-cd backend
-pip install -r requirements.txt
-python app.py
-
-# Frontend Setup
-cd ../frontend
-npm install
-npm start
