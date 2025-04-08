@@ -10,7 +10,7 @@ from google_images_search import GoogleImagesSearch
 def scrapper(search_key:str,No_of_images:int):
    
     # Set up your Google API credentials
-    API_KEY = 'AIzaSyAAX08upijsqVSsPDac_wCsaVRLQUsqVjg'
+    API_KEY = 'Enter your API Key here'
     CX = '8116e1240cca141cf'
 
     # Create a GoogleImagesSearch object
