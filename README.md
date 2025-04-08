@@ -83,7 +83,7 @@ All three algorithms demonstrated effectiveness in mitigating bias. **Fairness-G
 
 ## 📚 Academic Contribution
 
-This project was submitted as a **conference paper** in ACM-style format for the **CS516 – Fairness and Ethics in AI** course at the University of Illinois at Chicago.
+This project was submitted as a **conference paper** in ACM-style format for the **CS516 – Responsible Data Science and Algorithmic Fairness** course at the University of Illinois at Chicago.
 
 - 📄 Title: *Mitigating Gender Bias in Search Engines*
 - 🧑‍💻 Authors: Vishal Goud Mogili, Hemalatha Ningappa Kondakundi, Niketan Doddamani
